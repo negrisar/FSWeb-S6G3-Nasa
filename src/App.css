@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+img{
+  width: 100%;
+}
+
+iframe{
+  width: 50vw;
+  height: 37.5 vw;
 }
 
 .App-logo {

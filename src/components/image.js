@@ -1,11 +1,11 @@
 import React from "react";
 
 const Image = (props) => {
-    const {dataurl} = props;
+    const {dataUrl} = props;
 
     return (
         <div>
-            <img src= {dataurl} />
+            <img src= {dataUrl} alt="" />
         </div>
     )
 }
